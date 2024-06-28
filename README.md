@@ -42,4 +42,4 @@ print('Hello')
 
 [노션으로 이동](https://naver.com)
 
-![Vodka Martini](https://imgur.com/a/ksJJqCW)
+![Vodka Martini](https://imgur.com/c98aeb75-304d-4ec9-895d-70424a9a3258)
